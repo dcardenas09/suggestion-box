@@ -1,0 +1,35 @@
+.box{
+    border: 5px solid forestgreen;
+    position: fixed;
+    color: forestgreen;
+    font-size: 25px;
+    font-family: 'Bree Serif', serif;
+    width: 500px;
+    padding: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #407526;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 76px;    
+}
+
+.btn:hover {
+  background: #216b21;
+  text-decoration: none;
+}
+
+#submit{
+    color: forestgreen;
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
+    float: right;
+}
+    
